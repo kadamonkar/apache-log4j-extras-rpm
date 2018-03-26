@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Apache Extras™ for Apache log4j™.
+Implementation-Version: 1.2.17.1
+Built-By: root
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Extras™ for Apache log4j™.
+Implementation-Vendor-Id: log4j
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_112
+Specification-Version: 0.0
+Implementation-URL: http://logging.apache.org/log4j/extras
+Implementation-Vendor: The Apache Software Foundation
+
